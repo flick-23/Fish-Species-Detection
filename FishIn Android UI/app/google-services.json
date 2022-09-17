@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829597182289",
+    "firebase_url": "https://fishinapi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fishinapi",
+    "storage_bucket": "fishinapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829597182289:android:2fc885cf16601967c64b70",
+        "android_client_info": {
+          "package_name": "com.example.fishapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829597182289-3k297sdaur11l8e8oq8l4v51u0e3plue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEm9iQjtAfjMFEYHpunODftqDhtVvAy4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829597182289-3k297sdaur11l8e8oq8l4v51u0e3plue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
