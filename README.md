@@ -11,3 +11,7 @@
 <li>
  This app is designed in such a way that the processing of image , generating prediction and retrieving or storing of user data is handled asynchrounously which makes the application faster and provide clean user interface.  </li>
 </ul>
+
+### Output
+
+https://user-images.githubusercontent.com/51364640/190874009-887d03b5-b75b-45c5-bf7a-1556d6223394.mp4
